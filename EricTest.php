@@ -1,7 +1,7 @@
 <?php
 	class EricTest{
 		
-		public function(){
+		public function test(){
 			echo "hello ericqin";
 		}
 		
