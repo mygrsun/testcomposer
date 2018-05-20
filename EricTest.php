@@ -1,8 +1,11 @@
 <?php
+	require "innor\Panchunmei.php"
 	class EricTest{
 		
 		public function test(){
-			echo "hello ericqin";
+			$panchunmei = new Panchunmei();
+			$t = $panchunmei->getName();
+			echo $t;
 		}
 		
 	}
