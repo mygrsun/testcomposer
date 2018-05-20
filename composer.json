@@ -1,0 +1,8 @@
+{
+    "name": "mygrsun/composertest",
+    "description": "ericqin test",
+    "require": {},
+	"autoload": {
+        "files": ["EricTest.php"]
+    }
+}
