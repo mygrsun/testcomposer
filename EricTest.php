@@ -1,5 +1,5 @@
 <?php
-	require "innor\Panchunmei.php"
+	require "innor\Panchunmei.php";
 	class EricTest{
 		
 		public function test(){
